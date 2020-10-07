@@ -8,7 +8,7 @@ I'm currently working on CERN, ATLAS Experiment, Geneva, Switzerland Project Man
 
 ### Code ranking:
 
-[![jodafons's github stats](https://github-readme-stats.vercel.app/api?username=jodafons&theme=vue)](https://github.com/jodafons)
+[![jodafons's github stats](https://github-readme-stats.vercel.app/api?username=jodafons&theme=blueberry)](https://github.com/jodafons)
 
 
 
